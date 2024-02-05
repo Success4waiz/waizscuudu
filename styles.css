@@ -6,6 +6,9 @@
 .header{
     background-color:white;
 }
+body{
+    width: 1685px;
+}
 .view{
     display: flex;
     display: flex;
@@ -19,7 +22,7 @@ gap: 21px;
 
 }
 main{
-    min-width: 1439px;
+    width: 1685px;
 }
 
 
@@ -220,7 +223,7 @@ gap: 10px;
 .fifthbg{
     background-color: #FFF9F2;
     height: auto;
-    min-width: 1440px;
+    width: 1680px;
 
 }
 .box33{
@@ -358,7 +361,7 @@ gap: 4px;
     background-color: #FFF;
     position: relative;
     top: 60px;
-    width:;
+   
 }
 .sec8{
    
@@ -571,6 +574,10 @@ border-top: 1px solid var(--Primary-floral-white-500,rgba(229, 231, 235, 1));
         width: 414px;
         height: 11662px;
     }
+    header{
+        width: 375px;
+
+    }
     .view{
         display: flex;
         width: 410px;
@@ -582,7 +589,7 @@ border-top: 1px solid var(--Primary-floral-white-500,rgba(229, 231, 235, 1));
     box-shadow: black;
     }
     .main{
-        min-width: 375px;
+        width: 375px;
     }
     .text{
         display: flex;
@@ -864,6 +871,12 @@ position: relative;
 right: 420px;
 width: 230px;
 }
+.fifthbg{
+    background-color: #FFF9F2;
+    height: auto;
+    min-width: 400px;
+
+}
 .fifth{
     position: relative;
     right: 180px;
@@ -903,7 +916,7 @@ text-align: left;
     padding: 140px 100px;
     gap: 180px;
     border-right: 5px solid var(--Primary-floral-white-500, rgba(109, 24, 48, 1));
-    max-width: 367px;
+    max-width: 307px;
     border-top: 5px solid var(--Primary-floral-white-500, rgba(109, 24, 48, 1));
     border-radius: 10px;
     display: flex;
@@ -962,13 +975,13 @@ gap: 10px;
     position: relative;
     bottom: 230px;   
     left: 20px;
-    width: 367px; 
+    width: 307px; 
     border-radius: 10px;
     background-color: #FFF;
 }
 .intimg1{
     
-    width: 387px;
+    width: 307px;
     padding: 30px;
     position: relative;
     right: 45px;
@@ -991,7 +1004,7 @@ gap: 10px;
     position: relative;
     bottom: 300px;   
     left: 20px;
-    width: 367px; 
+    width: 307px; 
     border-radius: 10px; 
     background-color: #FFF;
 }
@@ -1022,7 +1035,7 @@ gap: 10px;
     position: relative;
     bottom: 580px;   
     left: 25px;
-    width: 367px;
+    width: 307px;
     padding: 40PX;
     border-right: 5px solid var(--Primary-floral-white-500, rgba(109, 24, 48, 1)    );
     border-top: 5px solid var(--Primary-floral-white-500, rgba(109, 24, 48, 1));
@@ -1034,7 +1047,7 @@ gap: 10px;
     width: 250px;
     position: relative;
     top:10px;
-    left: 10px;
+    left: 05px;
 }
 .notch img{
     padding-bottom: 20px;
@@ -1043,11 +1056,11 @@ gap: 10px;
 .secimg{
     position: relative;
     right: 190px;
-    width: 30px;
+    width: 20px;
 }
 .secimg img{
     position: relative;
-    right: 210px;
+    right: 230px;
     width: 300px;
 }
 .sec7{
