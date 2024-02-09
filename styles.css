@@ -573,6 +573,8 @@ border-top: 1px solid var(--Primary-floral-white-500,rgba(229, 231, 235, 1));
     body{
         width: 414px;
         height: 11662px;
+        overflow: hidden;
+        
     }
     header{
         width: 375px;
