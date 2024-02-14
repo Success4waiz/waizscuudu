@@ -276,6 +276,7 @@ border-top: 1px solid var(--Primary-floral-white-500,rgba(229, 231, 235, 1));
 .spanter span{
     margin-left: 20px;
 }
+
 @media (max-width:481px){
     body{
         width: 407px;
