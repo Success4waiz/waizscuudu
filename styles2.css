@@ -117,8 +117,13 @@ text-align: left;
    bottom: 100px;
 }
 .sec3text{
-    width: 286px;
+    width: 386px;
     margin-top: 100px;
+}
+.sec3text p{
+    font-size: 24px;
+    line-height: 32px;
+
 }
 .sec44{
     flex-direction: column;
